@@ -58,3 +58,4 @@ console.log("Producto 3 ",pedidoCompleto.productos[2],"precio       ",valorGaseo
 console.log("Precion Domicilio                ",domicilio)
 console.log("Precio propina                   ",valorPropina)
 console.log("El precio total -----------------",total)
+console.log("subo cambio al git")
